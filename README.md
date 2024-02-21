@@ -6,6 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
+<img src="https://i.ibb.co/M7MWpNg/agenda.png" alt="Imagem de exemplo">
+
 > Esse projeto é uma agenda que foi desenvolvido com objetivo de fixar conhecimentos em MongoDB e NodeJS. 
 
 ## 💻 Pré-requisitos
